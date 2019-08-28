@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'home_page.dart';
+
 void main()=> runApp(new MyApp());
 
 class MyApp extends StatelessWidget{
@@ -7,6 +9,7 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context) {
     // TODO: implement build
     return new MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "Calculator",
       theme: new ThemeData(
         primarySwatch: Colors.red
@@ -14,6 +17,7 @@ class MyApp extends StatelessWidget{
       home: new HomePage(),
 
     );
+
   }
 
 }
