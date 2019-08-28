@@ -21,6 +21,12 @@ class HomePage extends StatefulWidget{
                hintText: "Enter Numer 1"
              ),
            )
+        new TextField(
+        keyboardType: TextInputType.number,
+        decoration: new InputDecoration(
+            hintText: "Enter Numer 2"
+        ),
+      )
          ],
         )
       ),
