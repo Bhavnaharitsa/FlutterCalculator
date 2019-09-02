@@ -23,4 +23,9 @@ https://gifs.com/gif/calculator-NLpyZz
 ## ScreenShots
 
 ![logo](https://user-images.githubusercontent.com/37215508/64084850-d702bc00-cd4c-11e9-9ff3-b69b2dad6438.jpg)
+logo
+
+
+![1 0](https://user-images.githubusercontent.com/37215508/64084912-3a8ce980-cd4d-11e9-9e94-50350212497e.jpg)
+first page
 
