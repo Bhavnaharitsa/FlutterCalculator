@@ -3,7 +3,7 @@
 A simple flutter calculator application.
 
 ## Getting Started
-
+1. Try fork clone the project
 
 ## Working video of the App
 
