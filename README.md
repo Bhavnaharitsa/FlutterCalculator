@@ -6,6 +6,7 @@ A simple flutter calculator application.
 1. Fork the project
 2. Clone the project from your fork.
 3. Import the project into Android Studio from the location you stored it.
+4. Voila!!
 
 ## Working video of the App
 
