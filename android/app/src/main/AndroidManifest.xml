@@ -9,7 +9,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="calculator"
-        android:icon="@drawable/Calculator_Symbol">
+        android:icon="@drawable/calculator_symbol">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
